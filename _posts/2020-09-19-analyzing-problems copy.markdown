@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Understanding real problems"
+date:   2020-09-19 00:00:00 -0700
+categories: doing
+---
+Recently I watched a talk by [Eric Migicovsky][eric] about how to talk to users. Something that stuck with me was, "they don't buy the what, the buy the why". I think that statement probably encompasses his entire 30-minute talk. Lately I've been going to a bunch of physical brick and mortar businesses to just talk with the managers and see what their pain points are with over/under staffing, store layout, advertising, and other things that might affect their revenue. The first time I did this was two months ago when I started off by asking people whether they were interested in this computer-vision solution I was trying to sell to them. I had very little luck appealing to most of these owners or managers who didn't seem to understand why they needed anything like this even though I tried to do my best explaining. But the most recent time I went, I started off by asking whether they experience issues of over/under staffing or if what they think they could solve if they had a detailed heatmap of their entire space. This got me much better responses. The questions prompted them to think about the issue at hand and why they might find this information useful. It also opened my eyes a lot more in terms of what information these business owners thought they had and how they were trying to use it. Turns out most restaurant managers believe they have enough information just from being at the restaurant daily and observing trends. However, other places that are more takout/traditional shopping oriented believe this type of information would be something more useful/something they might actually want to have. It made me realize the real essence of real problems and how to truly understand them though what I said above might've been obvious to other people.
+
+[eric]: https://blog.ycombinator.com/author/eric-migicovsky/

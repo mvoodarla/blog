@@ -1,0 +1,16 @@
+title: Mokshith's Thoughts
+email: mvoodarla@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is just a page where I talk about random things I feel like talking
+  about once a week. Mostly, I think I can look back at this in like 20 years
+  and be like, damn.
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://mokshith.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: mokshith_v
+github_username:  mvoodarla
+linkedin_username:  mokshith-voodarla
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed

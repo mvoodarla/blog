@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Benefits of the Hive Mind"
+date:   2020-08-29 00:00:00 -0700
+categories: universe
+---
+There's so many different Hollywood depictions of what the [Hive Mind][hive] could achieve (for example, in one of the seasons of [Agents of Shield][shield]) but I feel that those are all one sided. While I don't believe the hive mind is good, I want to highlight some of its benefits. This starts with talking about the inefficiencies of humanity, one of the biggest being making unified decisions. Everyone has their own opinion and their own reason as to why that opinion is fact. While one can argue that this brings diverse thought into conversation and allows for everyone to voice their opinion, it doesn't most effectively advance the human race as a species (which is presumably what the hive mind aims to do most effectively). While the hive mind won't always make decision that each of us always think are correct, its decisions will always follow the same pattern of thought that doesn't change over time. This allows for consistency in goals and consistency in properly acheiving any one of those goals. While I could highlight other benefits, I think this is the main one. That being said, this takes away from what we as humans believe to be the value in life (family, love, experience, etc). The hive mind simply has different unified utilitarian goals which allows it "to do so much more" than what we can do right now as an overall species. However, that is not what we value which is why it doesn't matter.
+
+[hive]: https://en.wikipedia.org/wiki/Hive_mind
+[shield]: https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D.
