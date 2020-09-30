@@ -1,16 +1,88 @@
-title: Mokshith's Thoughts
-email: mvoodarla@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+# Site settings
+title: Mokshith's Thoughts # site title
+description: >- # site description
   This is just a page where I talk about random things I feel like talking
   about once a week. Mostly, I think I can look back at this in like 20 years
   and be like, damn.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://mokshith.xyz" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mokshith_v
-github_username:  mvoodarla
-linkedin_username:  mokshith-voodarla
+lang: en-US # default lang
+mode: dark # default theme "dark" | "light"
+
+# Profile settings
+author:
+  name: Mokshith Voodarla # author name
+  bio: >- # tell to the world
+    This is just a page where I talk about random things I feel like talking
+    about once a week. Mostly, I think I can look back at this in like 20 years
+    and be like, damn.
+  username: username # general username
+  github: mvoodarla # github username
+  twitter: mokshith_v # twitter username
+  facebook: facebook_username # facebook username
+  email: mvoodarla@gmail.com # email adress
+  avatar: /assets/img/avatar.jpg # change with your own avatar
+
+# URL settings
+url: "https://mokshith.xyz"
+baseurl: "/blog"
+
+# Collection setting
+collections:
+  posts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Homepage limit posts
+number_of_posts: 5
 
 # Build settings
-theme: minima
+# theme: klise
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - lighthouse.png
+  - klise-*.gem
+  - klise.gemspec
+
+# Plugins
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-postfiles
