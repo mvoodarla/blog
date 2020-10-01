@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "What Impact I Want to Have on the World [Sept 2020]"
+date:   2020-09-30 00:00:00 -0700
+categories: doing
+---
+From what I can tell, the biggest problems in the world are related to inequality: be it large corporations and small businesses, racism, or even the power held by a politician versus that held by a scientist. While there are other things to focus on such as climate change or expanding to other planets, concurrently solving problems of inequality will allow us to tackle the other problems more effectively. Social media platforms have better leveled the playing field in terms of who has influence, though there is still work to be done. Tools such as search, crowd fundraising, and code/document sharing have made it easier for amateur teams to effectively collaborate and develop compelling things. There are many other examples of when these tools work to improve our lives. However, human bias is still deeply rooted in arguments be it political, scientific, or anything else. I think a huge part of solving these issues has to do with developing more data-driven solutions to existent problems which improve accessibility, diversity of opinion, and consistent decision making. For example, right now I’m working on a [computer-vision based customer analytics platform][placeware-link] which is cheap and easy-to-setup that would level the playing field between large companies like Walmart and Amazon, and other smaller chains or businesses that don’t have the money to invest in such technology. While it may seem unrelated, I think it's a small step in my bigger goal to develop data-driven technology which enables equal, effective decision making.
+
+[placeware-link]: https://placeware.io
