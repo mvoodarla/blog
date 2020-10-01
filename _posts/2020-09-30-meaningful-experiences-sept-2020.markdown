@@ -14,4 +14,4 @@ Eating Orange Chicken - see [this][orange].
 [oleksii-linkedin]: https://www.linkedin.com/in/oleksii-v/
 [furniture]: https://www.unitedfurnitureclub.com/
 [trader]: https://www.traderjoes.com/
-[orange]: https://mokshith.xyz/blog/food/2020/08/15/orange-chicken.html
+[orange]: https://mokshith.xyz/blog/food/2020/08/15/orange-chicken-taste.html
