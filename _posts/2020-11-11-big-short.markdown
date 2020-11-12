@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Abstractions of the Economy"
+date:   2020-11-11 00:00:00 -0700
+categories: random
+---
+I know I'm pretty late to the bandwagon but I watched the [Big Short][bs] last night. Though I realize that it probably Hollywood-ified many aspects of what actually happened, I think it's pretty crazy. [Michael Burry][mburry] was one of the first guys to notice this problem with mortgages who bet against the housing market via [credit default swaps][cdf]. He is also one of the main characters in the movie. The way he makes it seem, anyone who paid attention to the carefully enough could've noticed this problem and bet against it. However, I find it kind of mesmerizing how there are so many abstractions to how finances work and how the economy functions on these numbers that exist nowhere but in software which sets numbers based on trade volume, frequency, etc.
+
+I myself am a very passive stock trader that sort of just follows random things I see in the news or random feelings I have and end up doing impulsive trades while brushing in the morning or something. I got on the Tesla bandwagon really early so I made a considerable amount via that but I still don't understand how the market assesses a value to a certain stock based on trades. Then again, I haven't read enough to know but why is it that we all sort of just trust this system? It seems to control so much of our society. Every company someone starts must be profitable and serve some economic purpose in order to then achieve whatever goals it has for humanitarian good.
+
+Are there not things that are genuinly useful to humanity which simply can't fit under this umbrella of providing some economic value? I can't think of a specific example on the top of my head but I'm sure there are many examples. I think that the main counter-argument someone would come up with here is that it's one of the fundamental ways we keep each other accountable to progress as a species and give value based on the work you do. I guess that's pretty valid but I'm curious if there's a better way to do things. Even if there was though, it would be pretty fucking hard to change things.
+
+[bs]: https://en.wikipedia.org/wiki/The_Big_Short_(film)
+[mburry]: https://en.wikipedia.org/wiki/Michael_Burry
+[cdf]: https://en.wikipedia.org/wiki/Credit_default_swap
