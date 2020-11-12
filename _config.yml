@@ -21,7 +21,7 @@ author:
 
 # URL settings
 url: "https://mokshith.xyz"
-baseurl: "/blog"
+baseurl: ""
 
 # Collection setting
 collections:
@@ -37,7 +37,7 @@ kramdown:
 # Default front matter
 defaults:
   - scope:
-      path: "/blog"
+      path: ""
     values:
       layout: post
       comments: false

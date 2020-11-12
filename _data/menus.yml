@@ -1,11 +1,11 @@
 - title: home
-  url: /blog/
+  url: /
   external: false
 
 - title: archive
-  url: /blog/archive/
+  url: /archive/
   external: false
 
 - title: about
-  url: /blog/about/
+  url: /about/
   external: false # set true if you using external link, see below
