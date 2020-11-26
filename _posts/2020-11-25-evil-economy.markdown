@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Economy"
+title:  "Bad Monetary Incentives"
 date:   2020-11-25 00:00:00 -0700
 categories: random
 ---
