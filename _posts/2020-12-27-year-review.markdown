@@ -29,7 +29,7 @@ There are a few days where if I wake up wrong, or I feel like I don't want to do
 
 **Music** - [Logic][logic] is still my favorite but the main new artists I started listening to include [Jack Harlow][harlow] and [The Kid LAROI][laroi]. Something about Jack Harlow as a person - I relate with (not sure what).
 
-**Twitch Streamer** - I discovered this in the last week but I really love GMHikaru, better know as [Hikaru Nakamura][hikaru]. It made me start loving chess again and I really love the fact that he has such a nice, relateable personality talking with his viewers even though he's one of the best to ever play chess.
+**Twitch Streamer** - I discovered this in the last week but I really love GMHikaru, better known as [Hikaru Nakamura][hikaru]. It made me start loving chess again and I really love the fact that he has such a nice, relateable personality talking with his viewers even though he's one of the best to ever play chess.
 
 ### Looking Forward
 
