@@ -35,7 +35,7 @@ There are a few days where if I wake up wrong, or I feel like I don't want to do
 
 Next year, I look forward to fix a few of the things I'm bad at which I mentioned above. But, I also look forward to my next venture and will step things up to the next level as I keep on with the trend - finding secrets. There is so much about the world we either take for granted, assume, or don't understand. I want to find those secrets and solve any problems that come with them. Other than that, I also look forward to going to Hawaii with friends right before the start of next semester, seeing more friends during the semester, and the summer I'll be spending [Scale AI][scale].
 
-Every year, I pretty drastic changes in me as a person - and I'm happy that I'm seeing this again at the end of 2020. So long.
+Every year, I see pretty drastic changes in me as a person - and I'm happy that I'm seeing this again at the end of 2020. So long.
 
 [plwr]: http://placeware.io/
 [book]: https://en.wikipedia.org/wiki/Zero_to_One
