@@ -2,7 +2,7 @@
 layout: post
 title:  "Bad Monetary Incentives"
 date:   2020-11-25 00:00:00 -0700
-categories: random
+categories: society
 ---
 Our world is centered around the economy and money. That's one of the few tangible ways we're able to assign value/measure progress that certain people make to some end-acheivable goal of helping humanity. While some make money in ways that don't help humanity at all, it's one of the few systems which we've implemented at a scale large enough to sustain constant iteration and growth. While many people will say the economy is a good thing, I just want to spend some time to point out the bad.
 

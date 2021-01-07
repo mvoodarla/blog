@@ -2,7 +2,7 @@
 layout: post
 title:  "State of Deep Learning Workflows"
 date:   2021-01-06 00:00:00 -0700
-categories: doing
+categories: tech
 ---
 
 Below is a breakdown of the current gaps or inefficiencies in the workflow for deep learning.

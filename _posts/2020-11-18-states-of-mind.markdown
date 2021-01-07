@@ -2,7 +2,7 @@
 layout: post
 title:  "States of Mind"
 date:   2020-11-18 00:00:00 -0700
-categories: random
+categories: universe
 ---
 We are so limited in the way we perceive things.
 

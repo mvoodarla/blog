@@ -2,7 +2,7 @@
 layout: post
 title:  "Abstractions of the Economy"
 date:   2020-11-11 00:00:00 -0700
-categories: random
+categories: society
 ---
 I know I'm pretty late to the bandwagon but I watched the [Big Short][bs] last night. Though I realize that it probably Hollywood-ified many aspects of what actually happened, I think it's pretty crazy. [Michael Burry][mburry] was one of the first guys to notice this problem with mortgages who bet against the housing market via [credit default swaps][cdf]. He is also one of the main characters in the movie. The way he makes it seem, anyone who paid attention to the carefully enough could've noticed this problem and bet against it. However, I find it kind of mesmerizing how there are so many abstractions to how finances work and how the economy functions on these numbers that exist nowhere but in software which sets numbers based on trade volume, frequency, etc.
 

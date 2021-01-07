@@ -2,7 +2,7 @@
 layout: post
 title:  "Brilliance and Bravery"
 date:   2020-11-04 00:00:00 -0700
-categories: universe
+categories: doing
 ---
 This is something I got from listening to [Kanye on Joe Rogan][jre]. At one point during the podcast, he said "If you mix brilliance and bravery then we can ignite something".
 

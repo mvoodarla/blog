@@ -2,7 +2,7 @@
 layout: post
 title:  "An All Encompassing Idea"
 date:   2020-10-18 00:00:00 -0700
-categories: doing
+categories: society
 ---
 There are so many people solving so many problems in the world, small or big. Only a few of these ideas tend to immediately (in the matter of a few years) impact a significant amount of the human population. Examples of these are Amazon, Facebook, and Google who all have products with billions of searches, logins, and buys every year. When we talk about the internet, buying, connecting, and searching all seem to be fundamental needs/conveniences which make our lives much easier. Obviously there is great contreversy about how they impact our lives with documentaries such as [The Social Dilemma][social-dilemma] being perfect storytellers here but that isn't what I'll be talking about in this post.
 
