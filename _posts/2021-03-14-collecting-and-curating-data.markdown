@@ -4,7 +4,7 @@ title:  "Going from Collected Data to Curated Datasets"
 date:   2021-03-14 00:00:00 -0700
 categories: tech
 ---
-For every ML project that is worked on in industry, there exists the process of going from collected data to curated datasets. We will go over the current workflow for doing this and problems that exist within it. We'll take the example of Zillow possibly wanting to automatically label the part of the house each of the listing images are from on their site. My thoughts below have been compiled after talking to 50+ ML engineers and researchers in industry.
+For every ML project that is worked on in industry, there exists the process of going from collected data to curated datasets. We will go over the current workflow for doing this and problems that exist within it. We'll take the example of Zillow possibly wanting to automatically label the part of the house each of the listing images are from on their site. My thoughts below have been compiled after talking to 50+ ML engineers and researchers in industry. Also note: this writing was free-form so don't expect perfect thoughts.
 
 ### Current Workflow
 ##### 1. Figure out how you're getting the data
