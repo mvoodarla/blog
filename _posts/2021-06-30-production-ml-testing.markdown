@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Testing ML Models in Production"
-date:   2021-03-14 00:00:00 -0700
+date:   2021-06-30 00:00:00 -0700
 categories: tech
 ---
 ### Problem
