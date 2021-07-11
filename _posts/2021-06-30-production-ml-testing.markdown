@@ -99,8 +99,8 @@ It is expensive to get all data labeled, tagging provides visibility over the ty
 As troves of data get piled, having information that doesn’t have to be self-transcribed becomes extremely important
 
 ### Potential Initial Target Markets
-Logistics companies handling documents
-AV companies
+Logistics companies handling documents<br />
+AV companies<br />
 Companies deploying algorithms on IP cameras
 
 ### Other Related Projects
