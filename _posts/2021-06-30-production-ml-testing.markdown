@@ -104,7 +104,7 @@ AV companies
 Companies deploying algorithms on IP cameras
 
 ### Other Related Projects
-https://www.amundsen.io/amundsen/
+https://www.amundsen.io/amundsen/<br />
 https://kolena.io/
 
 
