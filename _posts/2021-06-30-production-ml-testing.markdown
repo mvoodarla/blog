@@ -54,21 +54,21 @@ At its core, we want to build an easy way to do test-driven development in produ
 The first part of a solution is a tech stack that allows users to easily search for data. In the context of images, it could mean any of the following things. 
 
 ##### CLIP for text searches on a dataset of images?
-“Windy road with no trees”
-“Dimly lit factory floor”
-“Ocean view on a bridge”
+“Windy road with no trees”<br />
+“Dimly lit factory floor”<br />
+“Ocean view on a bridge”<br />
 
 ##### Search by image? Use one image to find similar images to add to a set using embeddings.
-Click on an image of a bathroom --> set of many bathrooms
+Click on an image of a bathroom --> set of many bathrooms<br />
 Click on an outdoor image of a forest --> many forests
 
 ##### Automatic classification, detection, segmentation models run on data for metadata search?
-SELECT image, num_people
-FROM dataset
-WHERE num_people > 5 and weather = ‘sunny’
+SELECT image, num_people<br />
+FROM dataset<br />
+WHERE num_people > 5 and weather = ‘sunny’<br />
 
-SELECT image_name
-FROM dataset
+SELECT image_name<br />
+FROM dataset<br />
 WHERE road_pct < 0.1 and ocean_pct > 0.7
 
 This searching stack should then be a part of a managed platform which can automatically run the required models for automatic data tagging and neural network based embedding or text search. Searches should either be able to be made via a web UI or a Python API.
