@@ -26,7 +26,7 @@ The ongoing case between [Epic Games and Apple][appstore] related to Apple's res
 
 Another story is one where [Google paid billions][12bil] to Apple so it could keep Google search on iPhones.
 
-Let's imagine an alternative however. What if we had a decentralized store with some type of voting process when it comes to adding or removing apps from the store, which still takes a cut but a much smaller one? This cut however doesn't go to a single business and rather goes to the computer which are hosting apps for download and putting more effort into quality reviews for acceptance vs rejection decisions for apps. This makes it easier for companies to compete and makes it impossible for a singal entity to prevent an app from existing on a store.
+Let's imagine an alternative however. What if we had a decentralized store with some type of voting process when it comes to adding or removing apps from the store, which still takes a cut but a much smaller one? This cut however doesn't go to a single business and rather goes to the computers which are hosting apps for download and putting more effort into quality reviews for acceptance vs rejection decisions for apps. This makes it easier for companies to compete and makes it impossible for a singal entity to prevent an app from existing on a store.
 
 ### AWS S3
 
