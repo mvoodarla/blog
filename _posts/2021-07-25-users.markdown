@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "Frictionless Software"
+date:   2021-07-25 00:00:00 -0700
+categories: tech
+---
+This post was written after reading the [The Billion User Table][bil-user] on [1729][1729].
+
+## Introduction
+
+If you're an avid user of any service on the internet, you probably have an account for it. Of course there are exceptions, but this is mostly true. Some of these online services have become so valuable and are used by billions (and are worth billions). This post will explore how some of these services became valuable over time, why that value can't be so easily duplicated, and how this might change in the future
+
+## Internet Services of Value
+
+### Consumer Services
+
+To start, let's take the example of Twitch.
+
+[Twitch][twitch] is an online streaming platform, targeted towards gamers, but is really for any type of streaming. Twitch started off as something called Justin.tv which was literally a guy named [Justin][https://en.wikipedia.org/wiki/Justin_Kan] living his boring, silicon-valley life streamed through a clunky camera and that's all you could watch on the site. Eventually they pivoted to a few different things, with gaming being the one that took off. Now, there is a whole community around Twitch with the donations, cheers, community-specific language like [pog][pog], and more.
+
+If we think about the value Twitch provided, it was a platform that focused in on a specific community, building a lot of community-specific features around the general idea of streaming. Twitch became its own little community with its own slang and jokes. That's what made joining the community more valuable for each user.
+
+Sure, someone could go create a streaming site again in 2021 but nobody would want to use it. That's because everyone is on Twitch.
+
+This is the same idea behind sites like YouTube, TikTok, and Twitter. Their value isn't the actually technology itself, it's rather the entire network. This is more commonly referred to as [network effects][network-eff].
+
+### Enterprise Software
+
+It might be harder to pinpoint these network effects in other software like enterprise. However, these effects are still there.
+
+Let's take the example of [Slack][slack]. Slack changed the way we communicate within companies (some arguing for the better, while others arguing for the worse). Regardless, thousands of companies use it today because of how much more efficient communication became; almost making email an obsolete way to communicate within companies.
+
+One example of the network effect of Slack is that as employees switch companies, they still know how to use Slack and don't need to get onboarded for as long as it would with other software. This is powerful, but not as powerful as the network effects of something like Twitch.
+
+A more powerful network effect was introduced with a feature called [Slack Connect][slack-connect]. This introduced the idea of creating a channel for collaboration between two different companies. So when working with clients, you don't have to email anymore; you just use another Slack channel embedded within your own workspace. This makes communication quicker, and as efficient as it is speaking with co-workers. Now that's something powerful since it has direct implications into dollars amounts of contracts and customer satisfaction. If you don't use Slack, you couldn't do this.
+
+## Limitations
+
+Many successful companies today have built amazing walled gardens which make you quasi-locked-in to a piece of software after you start using it for a while. This is good for business, but is it good for the users?
+
+My answer to this is no.
+
+Take the example of some incumbent software like AWS. Let's say they start slowly hiking up prices, or start having more downtime, or start having more security breaches. You are inclined to want to switch to another provider but you can't because you're locked into their service and switching will cost too much engineering time.
+
+Take another example of [Scale AI][scale-ai]. Scale's main business is labeling data for companies. This could be images, text, document, 3D, anything really. They've built an amazing company around the perfect marriage between tech and operations which has enabled high quality data labels, and now the pursuit of being the provider for almost anything MLOps related. They've started building out [Scale Nucleus][nucleus] for example which acts as a "Mission Control for Data", allowing teams to explore, group, and find failures within datasets to then help improve models. There are many other companies building similar pieces of software like [Aquarium][aquarium] and [Voxel51][voxel] but the main selling point for Scale is the ability to "one click send to Scale for labeling" feature which few other companies can match unless they put in extra work to integrate with Scale's API. Though Scale might allow this integration today, it may choose to disable this for users in the future which then kills competition for its Nucleus platform. If you like everything else about a different platform better but still need the "one click to label" feature, you are forced to use Nucleus.
+
+This is a hyper-specific use-case but it holds true with a lot of other consumer and enterprise software with ideas of not being able to "transfer social following" to another site or "transfer message history" from Slack to Microsoft Teams for example.
+
+## Solution: The Billion User Table
+
+The billion user table is this idea powered by crypto which is essentially saying one login for everything. It's different from something like "Sign-in with Google" though because it has the ability to store information of any form with a user account. This could be anything from a list of followers to a list of data labeling projects. This means that rather than information being silo-ed in Scale's database preventing companies like Aquarium from integrating or being locked into a cloud provider like AWS, things become frictionless. This is in the sense that there are decided upon protocols and different providers who follow those protocols, which can then access a set of users regardless of how big or small they are. It could mean that a click of a button switches a company from Google Cloud to AWS, or from Slack to Microsoft Teams, or from Scale AI to another labeling competitor.
+
+The benefits of this are immense. It means companies have to keep innovating to keep their active user base, driving greater quality to products. As a result, the big guy won't always stay the big guy if others keep innovating. There is no "network effect" advantage.
+
+## Conclusion
+
+There are probably a lot of technical details I glossed over in my opinions / explanations but I think the important thing is that something like this could be possible. The crypto space is constantly changed, and so are things like the world's opinion on the technology so there is no telling how close or far away from the truth this is. Regardless, I really enjoyed writing this post and I hope it keeps us all dreaming about what's possible.
+
+[1729]: https://1729.com/
+[bil-user]: https://1729.com/the-billion-user-table
+[twitch]: https://www.twitch.tv/
+[jkan]: https://en.wikipedia.org/wiki/Justin_Kan
+[pog]: https://www.urbandictionary.com/define.php?term=Pog
+[network-eff]: https://en.wikipedia.org/wiki/Network_effect
+[slack]: https://slack.com/
+[slack-connect]: https://slack.com/connect
+[scale-ai]: https://scale.com/
+[nucleus]: https://scale.com/nucleus
+[aquarium]: https://www.aquariumlearning.com/
+[voxel]: https://voxel51.com/
