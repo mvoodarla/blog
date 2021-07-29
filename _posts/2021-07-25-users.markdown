@@ -16,7 +16,7 @@ If you're an avid user of any service on the internet, you probably have an acco
 
 To start, let's take the example of Twitch.
 
-[Twitch][twitch] is an online streaming platform, targeted towards gamers, but is really for any type of streaming. Twitch started off as something called Justin.tv which was literally a guy named [Justin][https://en.wikipedia.org/wiki/Justin_Kan] living his boring, silicon-valley life streamed through a clunky camera and that's all you could watch on the site. Eventually they pivoted to a few different things, with gaming being the one that took off. Now, there is a whole community around Twitch with the donations, cheers, community-specific language like [pog][pog], and more.
+[Twitch][twitch] is an online streaming platform, targeted towards gamers, but is really for any type of streaming. Twitch started off as something called Justin.tv which was literally a guy named [Justin][jkan] living his boring, silicon-valley life streamed through a clunky camera and that's all you could watch on the site. Eventually they pivoted to a few different things, with gaming being the one that took off. Now, there is a whole community around Twitch with the donations, cheers, community-specific language like [pog][pog], and more.
 
 If we think about the value Twitch provided, it was a platform that focused in on a specific community, building a lot of community-specific features around the general idea of streaming. Twitch became its own little community with its own slang and jokes. That's what made joining the community more valuable for each user.
 
