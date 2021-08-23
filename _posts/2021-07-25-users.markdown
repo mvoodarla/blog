@@ -8,7 +8,7 @@ This post was written after reading the [The Billion User Table][bil-user] on [1
 
 ## Introduction
 
-If you're an avid user of any service on the internet, you probably have an account for it. Of course there are exceptions, but this is mostly true. Some of these online services have become so valuable and are used by billions (and are worth billions). This post will explore how some of these services became valuable over time, why that value can't be so easily duplicated, and how this might change in the future
+If you're an avid user of any service on the internet, you probably have an account for it. Of course there are exceptions, but this is mostly true. Some of these online services have become so valuable and are used by billions (and are worth billions). This post will explore how some of these services became valuable over time, why that value can't be so easily duplicated, and how this might change in the future.
 
 ## Internet Services of Value
 
