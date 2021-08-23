@@ -21,11 +21,7 @@ Most of the recent success of computer vision algorithms has come from [deep lea
 
 We haven't been working on self-driving for 10+ years because we feel like it. It's because we're trying to collect as many "edge cases" as we can in our datasets until we feel comfortable enough leaving it up to the cars.
 
-<div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/FSD_in_6m/status/1400207129479352323 %}
-</div>
-
-While this is best exemplified with self-driving cars, this limitation exists with virtually every application of computer vision. Teams across industry sometimes assume some of these algorithms to be magic and automatically generalize. This is a myth and it's a dangerous one. Self-driving car companies are some of the most [well-funded companies][well] and still have these issues. Imagine the mistakes a smaller, scrapier team might make.
+While this is [best exemplified with self-driving cars][self], this limitation exists with virtually every application of computer vision. Teams across industry sometimes assume some of these algorithms to be magic and automatically generalize. This is a myth and it's a dangerous one. Self-driving car companies are some of the most [well-funded companies][well] and still have these issues. Imagine the mistakes a smaller, scrapier team might make.
 
 There are two important takeways from the above.
 
@@ -99,3 +95,4 @@ This is what I think makes sense to dedicate the next decade of my life to given
 [placeware]: https://placeware.io/
 [emb]: https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/
 [ford]: https://corporate.ford.com/operations/autonomous-vehicles.html
+[self]: https://twitter.com/FSD_in_6m/status/1400207129479352323
